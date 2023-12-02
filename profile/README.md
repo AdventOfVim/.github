@@ -30,7 +30,7 @@ You have to come up with solutions that are faster to compose than the programmi
 <br>
 
 # Getting started
-Click [here](https://forms.gle/CW1jqB9HpKbqwUY78) to be part of the journey.
+Click [here](https://forms.gle/CW1jqB9HpKbqwUY78) to reserve your spot and be part of the journey.
 
 <br>
 
