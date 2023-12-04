@@ -66,4 +66,4 @@ For those who are not enrolled in the program, we are making the following Walkt
 + **WEEK 7:**
 
 
-To stay in the loop and participate with ideas, Follow us on Twitter [@cipherlogs](https://twitter.com/cipherlogs).
+To stay in the loop and participate with ideas, Follow me on Twitter [@cipherlogs](https://twitter.com/cipherlogs).
