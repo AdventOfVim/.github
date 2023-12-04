@@ -1,5 +1,14 @@
 <h1 align="center"><img src="https://seeklogo.com/images/V/vim-logo-A3E02B1F74-seeklogo.com.png"></h1>
 
+# The Invite
+We are excited to invite you to join this journey. However, if you feel that this is not valuable or relevant to you, 
+please feel free to ignore this invite and we will not contact you again. We respect your time and preferences.
+
+**By accepting this invite, you will become a member of our organization.**
+
+<br>
+<br>
+
 # Your Mission
 **NOTE**: THIS JOURNEY IS PART OF [SPRINT 909](https://github.com/cipherlogs/s909)
 
