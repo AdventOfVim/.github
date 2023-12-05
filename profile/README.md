@@ -10,10 +10,6 @@ please feel free to ignore this invite and we will not contact you again. We res
 <br>
 
 # Your Mission
-**NOTE**: THIS JOURNEY IS PART OF [SPRINT 909](https://github.com/cipherlogs/s909)
-
-<br>
-
 Every day, you will face real challenges with two interconnected parts, demanding a unique approach. You will join programmers from around the world in solving these puzzles, but with a twist: **you will only use VIM and unix utils.**
 
 This journey will challenge your skills and your creative and resourceful thinking. You will explore new possibilities with VIM, going beyond what you thought it could do. And as you advance through the [Advent Of Code](https://adventofcode.com) puzzles, you will transform yourself.
