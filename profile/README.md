@@ -14,6 +14,8 @@ Every day, you will face real challenges with two interconnected parts, demandin
 
 This journey will challenge your skills and your creative and resourceful thinking. You will explore new possibilities with VIM, going beyond what you thought it could do. And as you advance through the [Advent Of Code](https://adventofcode.com) puzzles, you will transform yourself.
 
+<br>
+
 ### Challenges Redefined
 These challenges are low-level tasks that most people solve using their favorite programming language.
 
@@ -35,7 +37,6 @@ There is a big condition that you have to meet for your solutions to count. **Yo
 # Getting started
 Use this [link](https://forms.gle/CW1jqB9HpKbqwUY78) to reserve your spot.
 
-<br>
 <br>
 
 ### Curriculum and Public Lectures
@@ -61,4 +62,6 @@ For those who are not enrolled in the program, we are making the following Walkt
 + **WEEK 7:**
 
 
+
+#
 To stay in the loop, Follow me on Twitter [@cipherlogs](https://twitter.com/cipherlogs).
